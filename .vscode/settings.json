@@ -1,0 +1,27 @@
+{
+    "folder-color.pathColors": [
+        {
+            "folderPath": "api_exercices/config/Database.php/"
+        },
+        {
+            "folderPath": "api_exercices/models/Etudiant.php/"
+        }
+    ],
+    "workbench.colorCustomizations": {},
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "root",
+            "database": "students",
+            "name": "ndule"
+        }
+    ]
+}
